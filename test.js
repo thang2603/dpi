@@ -39,7 +39,7 @@ const rowRenderer = ({ rowData, rowIndex, cells, columns }) => {
   }
   return cells
 }
-
+//https://autodesk.github.io/react-base-table/examples/row-span
 export default () => (
   <Table
     fixed
